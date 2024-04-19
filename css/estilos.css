@@ -55,23 +55,6 @@ body{
     text-decoration: none;
 }
 
-/* .nav ativo{
-    background-color: var(--color_01);
-    color: var(--color_03);
-    
-}
-
-div.a:hover:not(.ativo){
-    background-color: var(--color_04);
-    color: var(--color_03);
-} */
-
-/* .nav a:hover:not(.ativo){
-    background-color: var(--color_04);
-    color: var(--color_03);
-    transition: 0.4s;
-    width: 10px;
-} */
 
 .banner img{
     width: 100%;
